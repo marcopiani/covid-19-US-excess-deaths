@@ -11,6 +11,6 @@ I have saved
 
 "Excess_Deaths_Associated_with_COVID-19.csv"
 
-with name
+released with data up to September 12, 2020, with name
 
 "Excess_Deaths_Associated_with_COVID-19_up_to_20200912.csv"
