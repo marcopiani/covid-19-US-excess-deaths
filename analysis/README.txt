@@ -1,0 +1,1 @@
+This folder hosts files describing or supporting the analysis
